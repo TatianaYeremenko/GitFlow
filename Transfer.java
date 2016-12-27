@@ -11,6 +11,6 @@ public class Transfer{
    
    public void transfer(){
 	   // not implemented - the bug
-	   //... think
+	   //... thinking
    }
 }
