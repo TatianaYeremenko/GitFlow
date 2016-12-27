@@ -10,6 +10,6 @@ public class Transfer{
    }
    
    public void transfer(){
-	   // going soon!!! Really???
+	   // not implemented - the bug
    }
 }
