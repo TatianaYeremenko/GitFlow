@@ -1,4 +1,4 @@
 public class Account{
-	double money;
-	long id;
+	private double money;
+	private long id;
 }
